@@ -1,1 +1,1 @@
-# git-coomon-config-repo
+# git-common-config-repo
