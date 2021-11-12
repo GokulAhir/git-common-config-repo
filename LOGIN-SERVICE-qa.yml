@@ -1,2 +1,2 @@
-greeting
+greeting:
   message: Welcome to Spring cloud config this is qa environment properties from Git repositry.
