@@ -1,2 +1,2 @@
-greeting
+greeting:
   message: Welcome to Spring Cloud Config dev properties from Git repositry
